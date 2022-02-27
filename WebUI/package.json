@@ -52,6 +52,6 @@
 		"react-favicon": "0.0.16",
 		"react-icons": "^3.7.0",
 		"react-router-dom": "^5.1.0",
-		"url-parse": "^1.4.7"
+		"url-parse": "^1.5.8"
 	}
 }
